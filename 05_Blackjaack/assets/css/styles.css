@@ -1,0 +1,25 @@
+body{
+    background-color: peru;
+    margin: 0px;
+    color: white;
+}
+
+.titulo{
+    color: white;
+    background-color: Black;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carta{
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadora-cartas, #jugador-cartas{
+    height: 15rem;
+}
